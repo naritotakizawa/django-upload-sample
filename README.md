@@ -13,7 +13,7 @@
     * input multiple(モデルなし)
     * input multiple(モデルあり)
     
-[ブログ記事](https://narito.ninja/blog/detail/92/)
+[ブログ記事](https://blog.narito.ninja/detail/92)
 
 
 ## 動かし方
